@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="Concrate\" />
+    <Folder Include="AutoMapper\" />
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SanalKolej.Core\SanalKolej.Core.csproj" />
+    <ProjectReference Include="..\SanalKolej.Data\SanalKolej.Data.csproj" />
+    <ProjectReference Include="..\SanalKolej.Entities\SanalKolej.Entities.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+</Project>

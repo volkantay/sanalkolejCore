@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanalKolej.Api", "SanalKolej.Api\SanalKolej.Api.csproj", "{5D2BAE2F-FCD6-419A-BE2E-2E4D28B48F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanalKolej.Data", "SanalKolej.Data\SanalKolej.Data.csproj", "{45AC3329-4CAB-4DA2-9178-059A6207143D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanalKolej.Entities", "SanalKolej.Entities\SanalKolej.Entities.csproj", "{B4652CC6-2406-4142-9E9C-2FC44EEA2FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanalKolej.Core", "SanalKolej.Core\SanalKolej.Core.csproj", "{FD4540B5-40E4-4327-9391-ED035BD1257A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanalKolej.WebUI", "SanalKolej.WebUI\SanalKolej.WebUI.csproj", "{DEC18C6A-5E6D-4414-9C40-F677FC78AE16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanalKolej.Services", "SanalKolej.Services\SanalKolej.Services.csproj", "{5D440289-C193-4342-8C87-938977F32B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D2BAE2F-FCD6-419A-BE2E-2E4D28B48F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2BAE2F-FCD6-419A-BE2E-2E4D28B48F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2BAE2F-FCD6-419A-BE2E-2E4D28B48F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2BAE2F-FCD6-419A-BE2E-2E4D28B48F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45AC3329-4CAB-4DA2-9178-059A6207143D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AC3329-4CAB-4DA2-9178-059A6207143D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AC3329-4CAB-4DA2-9178-059A6207143D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AC3329-4CAB-4DA2-9178-059A6207143D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4652CC6-2406-4142-9E9C-2FC44EEA2FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4652CC6-2406-4142-9E9C-2FC44EEA2FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4652CC6-2406-4142-9E9C-2FC44EEA2FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4652CC6-2406-4142-9E9C-2FC44EEA2FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4540B5-40E4-4327-9391-ED035BD1257A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4540B5-40E4-4327-9391-ED035BD1257A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4540B5-40E4-4327-9391-ED035BD1257A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4540B5-40E4-4327-9391-ED035BD1257A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC18C6A-5E6D-4414-9C40-F677FC78AE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC18C6A-5E6D-4414-9C40-F677FC78AE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC18C6A-5E6D-4414-9C40-F677FC78AE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC18C6A-5E6D-4414-9C40-F677FC78AE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D440289-C193-4342-8C87-938977F32B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D440289-C193-4342-8C87-938977F32B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D440289-C193-4342-8C87-938977F32B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D440289-C193-4342-8C87-938977F32B88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CCDFAE4-A971-4D3E-B478-3C7C7748C09D}
+	EndGlobalSection
+EndGlobal
